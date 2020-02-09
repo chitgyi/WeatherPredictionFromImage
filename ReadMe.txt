@@ -1,4 +1,4 @@
-Note: All commands type in command promt
+Note: All commands type in command prompt
 Installing.....
 
 1. pip install scikit-learn
